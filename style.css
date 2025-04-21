@@ -1,0 +1,25 @@
+img {
+    height:200px;
+    width:200px;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h2 {
+    color:aliceblue;
+    text-align: center;
+}
+h3 {
+    color: antiquewhite;
+}
+form{
+    color: rgb(0, 0, 0);
+    
+}
+button{
+    border-radius: 25px;
+}
+body{
+    text-align: justify;
+}
