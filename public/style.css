@@ -20,3 +20,10 @@ img {
 #yellow {
     color:yellow
 }
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(68, 1, 1);
+}
+html{
+    background-color: rgb(206, 181, 212);
+}
